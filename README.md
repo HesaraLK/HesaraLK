@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/snake.svg?palette=github-dark-dimmed)
+![Snake animation](https://github.com/HesaraLK/HesaraLK/blob/output/snake.svg?palette=github-dark-dimmed)
 
 
 ###
