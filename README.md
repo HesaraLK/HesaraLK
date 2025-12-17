@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/HesaraLK/HesaraLK/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/eamalindu/eamalindu/output/snake.svg" alt="Snake animation" />
 
 ###
